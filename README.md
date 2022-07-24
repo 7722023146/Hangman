@@ -1,3 +1,1 @@
-# Hangman
-Its a game
-This is my 1st commit
+Hangman is a popular word guessing game where the player attempts to build a missing word by guessing one letter at a time.On each wrong guess,the diagram of hanging man keeps on completing. After a certain number of incorrect guesses,diagram completely looks like a hanging man, the game ends and the player loses.
